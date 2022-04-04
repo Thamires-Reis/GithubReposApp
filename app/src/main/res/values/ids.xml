@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id" />
+    <item name="description" type="id" />
+    <item name="language" type="id" />
+    <item name="stars" type="id" />
+    <item name="fork" type="id" />
+    <item name="shareRepo" type="id" />
+    <item name="clickMe" type="id" />
+</resources>
